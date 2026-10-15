@@ -1,6 +1,6 @@
 # Bộ sưu tập hình ảnh
 
-![Ảnh minh họa](Infographic lợi ích công nghệ số trong học tập (1))
+![Ảnh minh họa]("C:\Users\HP\Downloads\Infographic lợi ích công nghệ số trong học tập (1).png")
 
 Tác giả: Ngô Thừa Chí
 
