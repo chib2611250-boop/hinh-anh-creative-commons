@@ -4,6 +4,10 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 Copyright © 2026 Tác Giả: Ngô Thừa Chí
 
+Công cụ AI : CANVA AI
+
+Nguồn ảnh: UNSPLASH
+
 Các hình ảnh trong repository này được cấp phép theo Creative Commons Attribution 4.0 International.
 
 Người khác được phép chia sẻ, chỉnh sửa và sử dụng hình ảnh, kể cả thương mại, với điều kiện ghi công tác giả, dẫn liên kết giấy phép và nêu rõ thay đổi. 
