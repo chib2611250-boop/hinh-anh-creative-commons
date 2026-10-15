@@ -2,7 +2,7 @@
 
 ![Ảnh minh họa](Infographic lợi ích công nghệ số trong học tập (1).png)
 
-Tác giả: Ngô Thừa Chí
+Tác giả: Nhóm 2
 
 Giấy phép: CC BY 4.0
 
