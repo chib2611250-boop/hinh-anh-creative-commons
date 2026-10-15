@@ -2,7 +2,7 @@ Nội dung mẫu LICENSE.md
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Copyright © 2026 Tác Giả: Ngô Thừa Chí
+Copyright © 2026 Tác Giả: Nhóm 2
 
 Công cụ AI : CANVA AI
 
